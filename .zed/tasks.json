@@ -1,0 +1,7 @@
+[
+  {
+    "label": "Run",
+    "command": "cmake --build build && ./build/SpaceR",
+    "use_new_terminal": false,
+  },
+]
